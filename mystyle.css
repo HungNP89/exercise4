@@ -1,0 +1,23 @@
+body
+{
+    background-color:white;
+}
+
+#header
+{
+    background-color:lightblue;
+}
+#menu
+{
+    background-color:orangered;
+}
+
+#content
+{
+    background-color: white;
+}
+
+#footer
+{
+    background-color:purple;
+}
